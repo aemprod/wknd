@@ -14,7 +14,7 @@
  * Customer's content dataset id
  * @type {string}
  */
-const CONTENT_DATASET_ID = "65b25691b366902c6951cf0b";
+const CONTENT_DATASET_ID = "653bdd5474613028d25143cb";
 /**
  * Assets views debounce timeout
  */
